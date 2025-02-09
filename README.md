@@ -62,7 +62,7 @@ vsim -c -do "run -all"
 - **waveform.vcd** file for analysis
 
 ## Waveform Visualization
-(Add the waveform screenshot here)
+
 
 ![SPI Waveform](Waveform.png)
 
